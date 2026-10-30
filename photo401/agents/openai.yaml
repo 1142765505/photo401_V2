@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo401"
+  short_description: "参照本人样貌与固定工位合成实验室照片，支持按编号选衣服或使用默认衣服"
+  default_prompt: "使用 $photo401，以这张图片1为底图，只在我的工位加入我本人并输出图片2；可添加“衣服2”指定衣服，未指定时使用默认衣服。"
